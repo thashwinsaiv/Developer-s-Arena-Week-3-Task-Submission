@@ -1,9 +1,9 @@
 DEVELOPERS ARENA – DATA SCIENCE INTERNSHIP
 Week 3 task documentation
  
-Project Overview
+**Project Overview**
 The objective of this project is to analyze a sales dataset using Python and the Pandas library. The program loads the dataset, removes missing values, calculates important sales metrics, and displays a simple sales report. This project helps in understanding basic data analysis using Python.
-Setup Instructions
+**Setup Instructions**
 Open Google Colab.
 Create a new notebook.
 Copy and paste the Python code.
@@ -11,7 +11,7 @@ Run the first cell.
 Click Choose Files and upload sales_data.csv.
 Run the remaining cells.
 The sales report will be displayed.
-Technical Details
+**Technical Details**
 The project uses the following Pandas functions:
 pd.read_csv() – Reads the CSV file.
 isnull().sum() – Checks missing values.
@@ -23,8 +23,8 @@ idxmax() – Finds the best-selling product.
 print() – Displays the report.
 
 
-How the Technical Requirements Were Met
-Requirement
+**How the Technical Requirements Were Met
+Requirement**
 How It Was Met
 Use Pandas to load and analyze data
 Used pd.read_csv() to load the dataset and Pandas functions to analyze it.
